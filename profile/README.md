@@ -1,4 +1,43 @@
-# Development Workflow (개발 워크플로우)
+# 1. Project Overview
+- 프로젝트 이름 : 슥맵
+- 기능 : 슥슐랭 가이드(4조 - 김예원, 김혜준), 슥커뮤니티(3조 - 이온유, 조완진)
+
+# 2. Team Members (팀원 및 팀 소개)
+
+|                                          김예원                                           |                                           김혜준                                           |                                          이온유                                           |                                          조완진                                           |
+| :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/92143160?v=4" alt="김예원" width="150"> | <img src="https://avatars.githubusercontent.com/u/163358979?v=4" alt="김혜준" width="150"> | <img src="https://avatars.githubusercontent.com/u/212457396?v=4" alt="이온유" width="150"> | <img src="https://avatars.githubusercontent.com/u/73417173?v=4" alt="조완진" width="150"> |
+|                                            FE                                             |                                             BE                                             |                                            FE                                             |                                            BE                                             |
+|                          [GitHub](https://github.com/yewoniiii)                           |                        [GitHub](https://github.com/mingmingsoo)                         |                        [GitHub](https://github.com/ONYOU-LEE)                         |                        [GitHub](https://github.com/cohenpf)                         |
+
+# 3. Key Features (주요 기능 및 ERD)
+- **회원 관리**
+  - 회원가입 및 로그인 (계열사, 이름, 연락처 등 관리)
+- **맛집 정보 CRUD**
+  - 맛집 정보 등록 (상호명, 위치, 가격대 등)
+  - 맛집 정보 조회
+  - 좋아요 기능
+- **커뮤니티**
+  - 게시글 CRUD
+ 
+![image](https://github.com/user-attachments/assets/fcbd9677-f93e-4044-941e-895b64665b66)
+
+# 4. Tech Stacks
+| Tech Stacks       |                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------ |
+| FrontEnd     | React, Styled-components                                                                    |
+| BackEnd   | Spring Boot                                                   |
+| Database    | MySQL                                   |
+| API    | Kakaomap API |
+| Management     | GitHub, Jira                                                                            |
+
+# 5. Gantt Chart (향후 개발 계획)
+- [2025.5.21.] 프로젝트 계획 수립 & 역할 분담
+- [2025.5.22. ~ 2025.5.26.] [FE] 화면 설계 & 퍼블리싱 / [BE] API 명세 & 구현
+- [2025.5.26. ~ 2025.5.28.] 프론트 - 백 연동 작업
+- [2025.5.29. ~ 2025.5.30.] 발표 자료 준비
+
+# 6. Development Workflow (개발 워크플로우)
 
 ## Git Conventions
 
