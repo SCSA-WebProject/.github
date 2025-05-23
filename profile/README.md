@@ -32,6 +32,10 @@
 | API    | Kakaomap API |
 | Management     | GitHub, Jira                                                                            |
 
+⬇️ Jira를 활용한 스프린트 관리 예시
+![image](https://github.com/user-attachments/assets/9c65688b-44b7-434b-9755-32d32023720f)
+
+
 # 5. Gantt Chart (향후 개발 계획)
 - [2025.5.21.] 프로젝트 계획 수립 & 역할 분담
 - [2025.5.22. ~ 2025.5.26.] [FE] 화면 설계 & 퍼블리싱 / [BE] API 명세 & 구현
