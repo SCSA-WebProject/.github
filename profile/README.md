@@ -20,7 +20,8 @@
 - **커뮤니티**
   - 게시글 CRUD
  
-![image](https://github.com/user-attachments/assets/fcbd9677-f93e-4044-941e-895b64665b66)
+![image](https://github.com/user-attachments/assets/b97ff78d-5089-43d5-80c8-721a8d4510fb)
+
 
 # 4. Tech Stacks
 | Tech Stacks       |                                                                                  |
